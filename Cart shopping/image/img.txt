@@ -1,0 +1,20 @@
+img
+
+new1.png Longines Rose
+new2.png Jazzmaster
+new3.png Dreyfuss Gold
+new4.png Portuguese Rose
+product1.png Spirit rose
+product2.png Khaki pilot
+product3.png Jubilee black
+product4.png Fosil me3
+product5.png Duchen
+featured1.png Jazzmaster
+featured2.png Ingersoll
+featured3.png Rose gold
+home.png B720 series
+story.png
+trd1.png
+trd2.png
+trd3.png
+trd4.png

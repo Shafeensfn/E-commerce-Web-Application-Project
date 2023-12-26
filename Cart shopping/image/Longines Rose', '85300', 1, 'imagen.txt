@@ -1,0 +1,11 @@
+Longines Rose', '85300', 1, 'image/new1.png', 'p1000'),
+2, 'Jazzmaster', '31500', 1, 'image/new2.png', 'p1001'),
+3, 'Dreyfuss Gold', '25500', 1, 'image/new3.png', 'p1002'),
+('4', 'Portuguese Rose', '39900', 1, 'image/new4.png', 'p1003'),
+('5', 'Spirit rose', '40500', 1, 'image/product1.png', 'p1004'),
+('6', 'Khaki pilot', '35600', 1, 'image/product2.png', 'p1005'),
+('7', 'Jubilee black', '33900', 1, 'image/product3.png', 'p1006'),
+('8', 'Fosil me3', '27500', 1, 'image/product4.png', 'p1007');
+('9', 'Duchen', '37800', 1, 'image/product5.png', 'p1008');
+('10', 'Fosil me3', '25000', 1, 'image/product1.png', 'p1009'),
+('11', 'Fosil me3', '25000', 1, 'image/product2dw.png', 'p1010');
